@@ -10,3 +10,8 @@ Tutorial for React To run the project:
 	3. Run npm install.
 
 	4. Run npm start.
+
+
+You can also view the live version at:
+
+	https://davidkmuchiri.github.io/Robofriends/
